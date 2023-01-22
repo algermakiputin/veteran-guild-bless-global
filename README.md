@@ -1,0 +1,1 @@
+# veteran-guild-bless-global

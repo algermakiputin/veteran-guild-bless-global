@@ -3234,7 +3234,7 @@ img.rounded {
 }
 
 @media (max-width: 420px) {
-    .nk-navbar.nk-navbar-top .nk-nav-logo {
+    .nk-contacts-right {
         display: none;
     }
 }
@@ -8416,10 +8416,7 @@ div.nk-error {
     .nk-news-box .nk-news-box-each-info {
         height: 400px;
         border-left: 0;
-    }
-    .nk-news-box .nk-news-box-list {
-        height: 320px;
-    }
+    } 
     .nk-news-box .nk-news-box-list .nk-news-box-item-img {
         width: 60px;
     }
