@@ -1,0 +1,32 @@
+/* PLACE YOU CUSTOM STYLES IN THIS FILE */
+.nk-match {
+    display: flex;
+    vertical-align: middle;
+    align-items: center;
+}
+
+.nk-match .nk-match-status {
+    width: 100%;
+}
+
+.event-name {
+    font-size: 1.2rem;
+    font-weight: bold; 
+} 
+
+.nk-match-team-logo img {
+    width: 50px;
+}
+
+.nk-match-score {
+    font-size: 0.95rem;
+}
+
+.nk-navbar .nk-nav-logo img {
+    margin-top: -5px;
+}
+@media only screen and (min-width: 900px) {
+    .event-name {
+        padding-left: 10px;
+    }
+}
